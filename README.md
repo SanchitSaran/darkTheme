@@ -1,22 +1,20 @@
-# theme_mode_switch
+# Light to Dark Mode
 
-A Flutter Tutorial project Demonstrating State Manegemnt with Provider with example of Switching theme to dark and light mode in Flutter applications.
+A Flutter Tutorial project Demonstrating State Managemnt with Provider with example of Switching theme to light and dark mode in Flutter applications.
 
-# Learn Flutter with Mayuri Ruparel
+# Learn Flutter with Coder Spy
 
 
-Author Name: Mayuri Ruparel
+Author Name: SANCHIT SARAN
 <br/>
-Email: mayuri2411@gmail.com
 
-- [Git Hub Repository](https://github.com/mayuriruparel/flutter_demo_apps)
-- [LinkedIn](https://www.linkedin.com/in/mayurirajani/)
-- [FacebookPage](https://www.facebook.com/ReevaAcademy/)
-- [Twitter](https://twitter.com/mayuriur)
-- [Instagram](https://www.instagram.com/mayuriruparel/)
-- [Youtube Video Tutorials](https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ)
-- [Blogger](http://catchmayuri.blogspot.com/)
 
-<a href='https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ'>
-<img src='https://github.com/mayuriruparel/flutter_demo_apps/blob/master/preview_images/Flutter%20tutorial%20series%20with%20mayuri%20ruparel%20learn%20flutter%202019.png' alt='flutter tutorials by mayuri ruparel'/>
+- [Git Hub Repository](https://github.com/SanchitSaran/darkTheme)
+- [LinkedIn](https://www.linkedin.com/in/sanchitsaran/)
+- [Instagram](https://www.instagram.com/sanchitsaran/)
+- [Youtube Video Tutorials](https://www.youtube.com/channel/UCyRt3BNQhVnYmfwVeMQAOxw)
+- [Blogger](https://sanchitsaran.medium.com/)
+
+<a href='https://www.youtube.com/channel/UCyRt3BNQhVnYmfwVeMQAOxw'>
+<img src='https://drive.google.com/file/d/1DS3XXgH3KxU0RIYFiXkXvg5vW37RrOin/view?usp=sharing' alt='Flutter tutorials by Coder Spy'/>
 </a>
